@@ -1,4 +1,4 @@
-function ranson(code){
+function ranson(){
 	var finnish = me;
 }
 
@@ -6,7 +6,7 @@ console.log(finnish);
 
 var dog = woof;
 
-function bar(cool){
+function bar(){
 	console.log(dog);
 }
 
